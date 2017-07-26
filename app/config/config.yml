@@ -75,3 +75,6 @@ fos_user:
     from_email:
         address: "devart.freelance@gmail.com"
         sender_name: "ItWork"
+
+sentry:
+    dsn: http://21e21b43f3834e04b826ac24f9ef8cc9:acc747a904dc446793c5d31d9406ec79@sentry.local/2
